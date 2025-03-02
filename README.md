@@ -8,7 +8,7 @@ Este projeto foi desenvolvido em Power BI e visa apresentar visualizações inte
 - **Gestão de Cargos:** Exibição de dados sobre cargos, departamentos e divisões.
 - **Demografia de Funcionários:** Análise de informações demográficas como idade, tempo de serviço, entre outros.
 - **KPI's:** Indicadores chave de desempenho (KPIs) sobre produtividade e engajamento.
-<br>
+
 ## Objetivo
 Fornecer uma ferramenta visual que facilita a análise de dados de recursos humanos, otimizando processos e decisões no ambiente corporativo.
 <br><br>
