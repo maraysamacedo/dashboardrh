@@ -13,6 +13,5 @@ Este projeto foi desenvolvido em Power BI e visa apresentar visualizações inte
 Fornecer uma ferramenta visual que facilita a análise de dados de recursos humanos, otimizando processos e decisões no ambiente corporativo.
 <br><br>
 **[📊 Projeto DRE](https://app.powerbi.com/links/ePyoPzXUUf?ctid=001ed149-d761-4dc5-9830-52a79f552e84&pbi_source=linkShare)**
-*
 <br><br>
 ![Demonstração do Projeto](2%C2%AA%20Dashboard%20-%20RH/gif/Projeto%20POWER%20BI%20%20Dashboard%20RH.gif)
